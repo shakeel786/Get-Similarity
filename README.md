@@ -1,7 +1,7 @@
 -----------------------------------------------------------------
 #Get similarity between two resumes 
 Submission code
-             -- SK. Mohammad shakeel, shakeel3it@gmail.com
+               SK. Mohammad shakeel, shakeel3it@gmail.com
 -----------------------------------------------------------------
 
 This the working code for Get similarity between two resumes
