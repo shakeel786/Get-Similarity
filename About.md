@@ -17,7 +17,7 @@ After completion of Data cleaning of two resumes
               using keywords.txt file grabbed skills from resume files
               
 - step 3 :
-        Next we have to measure the similarity of two skils data__
+        Next we have to measure the similarity of two skils data <br>
         count the no.of similar words, let us say n
         then total no.of words, let us say wn
         then fraction = n/wn
