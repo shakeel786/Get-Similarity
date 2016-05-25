@@ -1,5 +1,6 @@
 -----------------------------------------------------------------
-#Get similarity between two resumes Submission code
+#Get similarity between two resumes 
+Submission code
              -- SK. Mohammad shakeel, shakeel3it@gmail.com
 -----------------------------------------------------------------
 
@@ -18,17 +19,17 @@ sudo apt-get install python-nltk	(or)	pip install nltk
 
 ------- Files contained in this folder -------------
 
-1. get_similarity.py
+a. get_similarity.py
 	Complet implementation code contains in this file
 
-2. stopwords.txt
+b. stopwords.txt
 	contains stopword gathered from external resources
 
-3. Keywords.txt
+c. Keywords.txt
 	contains all keywords of skills, used for extraction for skills from resumes
 
-4. requirments.txt
+d. requirments.txt
 	contains requirements used to execute the above application
 
-5. some of resume files
+e. some of resume files
 	Provided by venturesity
