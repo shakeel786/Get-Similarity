@@ -19,17 +19,17 @@ sudo apt-get install python-nltk	(or)	pip install nltk
 
 ------- Files contained in this folder -------------
 
-a. get_similarity.py
+a. get_similarity.py :
 	Complet implementation code contains in this file
 
-b. stopwords.txt
+b. stopwords.txt :
 	contains stopword gathered from external resources
 
-c. Keywords.txt
+c. Keywords.txt :
 	contains all keywords of skills, used for extraction for skills from resumes
 
-d. requirments.txt
+d. requirments.txt :
 	contains requirements used to execute the above application
 
-e. some of resume files
+e. some of resume files :
 	Provided by venturesity
