@@ -1,0 +1,131 @@
+Raigor Stonehoof 
+
+raigorstonehoof@example.com | 412.425.1234
+
+education
+carnegie mellon university dec 2015
+ms-it in software engineering
+school of computer science | qpa : 3.77/4.0
+amrita university may 2012
+btech in information technology | cgpa : 7.1/10
+academic projects
+vossm | cmu studio project
+may 2015 - dec 2015 | team size - 3 | role - architect, developer
+• researchers can meter their use of open source scientiﬁc software
+• designed the system architecture to satisfy extensibility , data reliability and
+
+availability quality attributes
+
+• developed plugins(python ) and unix daemons(shell ) to collect usage data
+from lab machine. a server(python, django ) to collect and crunch the usage
+data sent by the lab machines. a dashboard(html, js, css ) to conﬁgure data
+aggregation and generate summary report
+
+rover commander tool - funded by cmu ri and nasa
+jul 2014 - apr 2015 | team size - 4 | role - architect, developer
+
+• enables scientists to generate and monitor the operations performed by an
+
+autonomous astrobiological robot, zoe
+
+• designed the system architecture to satisfy modiﬁability and usability quality
+
+attributes. followed scrum software development process
+
+• developed a web application using python , django and mongodb stack
+
+website uptime monitor
+jun 2015 - aug 2015
+
+• built the application using mean stack . node.js tracks the website realtime
+
+and broadcasts the status of the website to all connected clients using socket.io
+• generates graphs for the response time using amcharts . alerts through email
+
+or sms when the website goes down
+
+posterize
+may 2015 - aug 2015 | team size - 4 | role - android developer
+
+• designed and implemented android and ios application that enables users to
+
+print large posters using a4 sheets right from their home
+
+• developed an algorithm to optimize the number of sheets used for printing
+• implemented one of a kind camera ruler to measure poster’s dimension
+• hosted a simple php ﬁle server in aws and uploaded the generated poster
+
+from android app using multipartentity in android httppost
+
+personal projects
+buffet tracker sept 2015 | harvard hackathon
+
+• tracks eating behavior at a buffet style restaurant. by tracking plates
+
+using rfid and linking them to a change in weight of a particular vessel.
+
+• sensor data is streamed to raspberrypi in csv format through
+
+arduino’s serial port, and in rasppi we parse the data, convert it into
+json and persist it on dynamodb
+
+panda - sentiment analyzer | hackathon
+mar 2014 | team size - 3 | role - designer, developer
+
+• web application created using python and flask
+• Stonehoofs sentiment analysis on reviews fetched and classiﬁes positive, negative
+
+and neutral. feature extraction done for the product. used rabbitmq
+message broker to pass tweets to sentiment analyser
+
+experience
+infosys ltd.
+systems engineer
+jun 2012 – jun 2014 | chennai, india
+- conﬁgured oracle identity manager
+11g, oracle access manager 11g for
+providing web security to a leading
+japanese car manufacturer
+- secured and monitored close to 100
+websites, web services, web applications
+and desktop applications using oracle
+idm tool
+
+skills
+languages
+extensive: c++ • java • shell
+comfortable: python • html •
+javascript - ajax, jquery
+app framework
+comfortable:
+mean stack • django • bootstrap
+technology
+extensive: git • unix
+
+coursework
+graduate
+•architectures for software systems
+•introduction to computer systems
+•managing software development
+•cloud computing*
+•mobile application development for
+android and ios
+
+hackathons
+het, harvard (sept 2015)
+
+• first place!
+
+thoughtworks, india (oct 2013)
+
+• won best app award
+
+save the hacker, freshdesk, india
+(mar 2014)
+inmobi hackday, india (oct 2014)
+
+certifications
+redhat certified engineer (rhce)
+may 2015 – present
+
+mongodb 101 jul 2014 - apr 2015
